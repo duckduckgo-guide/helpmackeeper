@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpmackeeper.readthedocs.io/en/latest/
