@@ -3,7 +3,7 @@ How to Access and Manage MacKeeper Login Account?
 
 MacKeeper is a well-known utility software designed to optimize, secure, and clean Mac devices. It offers features such as antivirus protection, system cleanup, performance optimization, and data security tools. To fully utilize MacKeeper’s services, users need a MacKeeper login account. Accessing and managing this account ensures smooth device management, subscription control, and access to support services.
 
-.. image:: login-noww.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
